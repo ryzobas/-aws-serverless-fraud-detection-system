@@ -1,3 +1,6 @@
+# Architecture Diagram
+![Image alt](https://github.com/ryzobas/-AWS-Serverless-Fraud-Detection-System/blob/ffb0dd042e140b6ee8c1828d03613925dcfaadbe/AWS-SERVERLESS-FRAUD-DETECTION-SYSTEM/Architecture%20Diagram.png)
+
 # HMRC-Grade Serverless Tax Fraud Detection Platform (AWS)
 # Overview
 This project simulates a production-grade tax fraud detection system inspired by UK HM Revenue & Customs (HMRC) digital infrastructure.
